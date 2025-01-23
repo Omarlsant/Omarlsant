@@ -33,7 +33,7 @@ Como un líder innovador, siempre estoy buscando formas de superar los límites 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarlsant&show_icons=true)
 
-[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=Omarlsant)](https://git.io/streak-stats)]
+[![GitHub Streak][(https://streak-stats.demolab.com?user=Omarlsant)]]
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarlsant&layout=compact)](https://github.com/Omarlsant/github-readme-stats)
