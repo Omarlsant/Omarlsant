@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Omarlsant&color=blue)
 
+![Omar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omarlsant&theme=default)
+
 # 💫 Sobre mí:
 ¡Hola! Soy Omar Lengua, un desarrollador full stack apasionado y un entusiasta del lenguaje C. Me encanta enfrentarme a desafíos que requieren tanto front-end como back-end para crear aplicaciones web dinámicas y juegos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
 
