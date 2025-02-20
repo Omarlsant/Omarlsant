@@ -3,37 +3,46 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omarlsant)](https://git.io/streak-stats)
 
 # 💫 Sobre mí:
-¡Hola! Soy Omar Lengua, un desarrollador junior full stack apasionado y un entusiasta del lenguaje C. Me encanta enfrentarme a desafíos que requieren tanto front-end como back-end para crear aplicaciones web dinámicas y juegos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
+¡Hola! Soy Omar Lengua, un desarrollador jr. full stack web apasionado y un entusiasta del lenguaje C. Me encanta enfrentarme a desafíos que requieren tanto front-end como back-end para crear aplicaciones web dinámicas y juegos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
 
-## 🌟 Proyectos Destacados:
+## 🌟 Proyectos Destacados
 
-- **Proyecto Fullstack Funcional**: He desarrollado tanto el front-end como el back-end con TypeScript, demostrando mi habilidad para manejar todo el ciclo de desarrollo de aplicaciones web.
-- **Página Web Dinámica**: Un proyecto que refleja mi habilidad para integrar JavaScript con modernas prácticas de desarrollo web.
-- **Juego Personalizado**: Un juego que he podido modificar, demostrando mi creatividad y habilidad para codificar soluciones complejas.
+Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones prácticas:
 
-## 💻 Tecnologías Favoritas:
+- **Aplicación Web Full-Stack (TS):** Desarrollo *front-end* y *back-end* con TypeScript, demostrando gestión completa del ciclo de vida de una app web.
+- **Sitio Web Dinámico (JS):**  Implementación de JavaScript y prácticas modernas para una experiencia de usuario fluida.
+- **Juego Personalizado (Adaptación):** Modificación de un juego existente, mostrando creatividad y resolución de problemas de código complejos.
+- **Taxímetro Digital (Python):** Creación de un taxímetro digital funcional utilizando Python, probando la lógica de tarificación y la interacción con el usuario.
 
-- **JavaScript**: Mi herramienta de elección para dar vida a las páginas web.
-- **Lenguaje C**: La base sobre la que construyo mi comprensión de la programación y el desarrollo de software.
+## 💻 Tecnologías y Herramientas
 
-## 📈 Filosofía de Desarrollo:
+Mi conjunto de herramientas para abordar diversos desafíos de desarrollo:
 
-Creo en el progreso constante. Cada línea de código es un paso adelante, y cada proyecto completado es un testimonio de mi dedicación y esfuerzo por mejorar.
+- **JavaScript:** Lenguaje principal para desarrollo web *front-end* y *back-end* (Node.js).
+- **TypeScript:**  Aporta seguridad de tipos y escalabilidad a mis proyectos.
+- **Python:**  Para scripting, automatización, análisis de datos y desarrollo *back-end*.
+- **Django:**  Framework para aplicaciones web robustas y escalables con Python.
+- **C:**  Base para una comprensión profunda de la programación a bajo nivel.
+- **Docker / Docker Compose:**  Para la creación y gestión de entornos de desarrollo y despliegue consistentes y portables.
+
+## 📈 Filosofía de Desarrollo
+
+Soy un firme creyente en el aprendizaje continuo y la mejora constante.  Cada línea de código que escribo, cada error que depuro y cada proyecto que completo son pasos en un viaje de crecimiento profesional.  La programación es, para mí, un proceso iterativo de refinamiento y expansión de habilidades.
 
 ## 🚀 Logros Recientes:
 
-En los últimos meses, he redoblado mi compromiso con mi desarrollo profesional, sumergiéndome profundamente en nuevas tecnologías y perfeccionando mis habilidades de programación.
+En los últimos meses, he redoblado mi compromiso con mi desarrollo profesional, aprendiendo tecnologías con las que no había trabajado anteriormente y gracias a la base que tengo, se me facilita el poder implementar código en los proyectos personales que hago.
 
-## 🔭 Cómo me veo:
+## 🔭 Visión a Futuro
 
-Como un líder innovador, siempre estoy buscando formas de superar los límites de lo posible y llevar mis proyectos al siguiente nivel.
+Me visualizo como un miembro clave de un equipo de alto rendimiento, donde la colaboración, el aprendizaje continuo y el intercambio de conocimientos sean pilares fundamentales. Busco no solo superar mis propios límites, sino también contribuir al crecimiento y éxito colectivo.
 
 ## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/P57Bm7xJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarlengua) 
 
 ## 📊 Estadísticas de GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarlsant&show_icons=true)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarlsant&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarlsant&layout=compact)](https://github.com/Omarlsant/github-readme-stats)
 
