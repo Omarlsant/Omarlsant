@@ -6,7 +6,6 @@
 ¡Hola! Soy Omar Lengua, un desarrollador jr. full stack web apasionado y un entusiasta del lenguaje C. Me encanta enfrentarme a desafíos que requieren tanto front-end como back-end para crear aplicaciones web dinámicas y juegos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
 
 ## 🌟 Proyectos Destacados
-
 Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones prácticas:
 
 - **Aplicación Web Full-Stack (TS):** Desarrollo *front-end* y *back-end* con TypeScript, demostrando gestión completa del ciclo de vida de una app web.
@@ -15,26 +14,51 @@ Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones p
 - **Taxímetro Digital (Python):** Creación de un taxímetro digital funcional utilizando Python, probando la lógica de tarificación y la interacción con el usuario.
 
 ## 💻 Tecnologías y Herramientas
-
 Mi conjunto de herramientas para abordar diversos desafíos de desarrollo:
+**Lenguajes:**
+- JavaScript
+- TypeScript
+- Python
+- C
+- Aprendiendo: Java
 
-- **JavaScript:** Lenguaje principal para desarrollo web *front-end* y *back-end* (Node.js).
-- **TypeScript:**  Aporta seguridad de tipos y escalabilidad a mis proyectos.
-- **Python:**  Para scripting, automatización, análisis de datos y desarrollo *back-end*.
-- **Django:**  Framework para aplicaciones web robustas y escalables con Python.
-- **C:**  Base para una comprensión profunda de la programación a bajo nivel.
-- **Docker / Docker Compose:**  Para la creación y gestión de entornos de desarrollo y despliegue consistentes y portables.
+**Frontend:**
+- React
+- Vite
+- CSS
+- Sass
+- Tailwind CSS
+- npm
+
+**Backend:**
+- Node.js
+- Django
+- Flask
+- Express
+- MySQL
+- API REST
+- JWT
+
+**Testing:**
+- Jest
+- Supertest
+- Pytest
+- Unittest
+
+**Plataformas y Herramientas:**
+- Docker
+- Docker Compose
+- CI/CD: GitHub Actions
+- Git
+- GitHub
 
 ## 📈 Filosofía de Desarrollo
-
 Soy un firme creyente en el aprendizaje continuo y la mejora constante.  Cada línea de código que escribo, cada error que depuro y cada proyecto que completo son pasos en un viaje de crecimiento profesional.  La programación es, para mí, un proceso iterativo de refinamiento y expansión de habilidades.
 
 ## 🚀 Logros Recientes:
-
 En los últimos meses, he redoblado mi compromiso con mi desarrollo profesional, aprendiendo tecnologías con las que no había trabajado anteriormente y gracias a la base que tengo, se me facilita el poder implementar código en los proyectos personales que hago.
 
 ## 🔭 Visión a Futuro
-
 Me visualizo como un miembro clave de un equipo de alto rendimiento, donde la colaboración, el aprendizaje continuo y el intercambio de conocimientos sean pilares fundamentales. Busco no solo superar mis propios límites, sino también contribuir al crecimiento y éxito colectivo.
 
 ## 🌐 Redes Sociales:
