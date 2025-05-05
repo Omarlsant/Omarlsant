@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Omarlsant&color=blue)
 
-<p style="color: #a9a9a9;">Si no puedes visualizar estos elementos (contador de visitas o streak), recarga otra vez la página. El error es de la API externa que no se muestra a veces.</p>
-
+### Si no puedes visualizar estos elementos (contador de visitas o streak), recarga otra vez la página. El error es de la API externa que no se muestra a veces.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omarlsant)](https://git.io/streak-stats)
 
 # 💫 Sobre mí:
