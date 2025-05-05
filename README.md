@@ -15,6 +15,7 @@ Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones p
 
 ## 💻 Tecnologías y Herramientas
 Mi conjunto de herramientas para abordar diversos desafíos de desarrollo:
+
 **Lenguajes:**
 - JavaScript
 - TypeScript
