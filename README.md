@@ -32,7 +32,7 @@ Mi conjunto de herramientas para abordar diversos desafíos de desarrollo:
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Docker--Compose-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white) ![](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Filosofía de Desarrollo
-Soy un firme creyente en el aprendizaje continuo y la mejora constante.  Cada línea de código que escribo, cada error que depuro y cada proyecto que completo son pasos en un viaje de crecimiento profesional.  La programación es, para mí, un proceso iterativo de refinamiento y expansión de habilidades.
+Soy un firme creyente en el aprendizaje continuo y la mejora constante. Cada línea de código que escribo, cada error que depuro y cada proyecto que completo son pasos en un viaje de crecimiento profesional. La programación es, para mí, un proceso iterativo de refinamiento y expansión de habilidades.
 
 ## 🚀 Logros Recientes:
 En los últimos meses, he redoblado mi compromiso con mi desarrollo profesional, aprendiendo tecnologías con las que no había trabajado anteriormente y gracias a la base que tengo, se me facilita el poder implementar código en los proyectos personales que hago.
