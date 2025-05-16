@@ -8,9 +8,9 @@
 ## 🌟 Proyectos Destacados
 Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones prácticas:
 
+- **Modelo de ML que predice la satisfacción de un cliente. Implementado en Python, uso de Flask, MySQL, Render y Docker.
 - **Mi portafolio profesional:** Implementado en React vite, TypeScript y Tailwind Css. Enrutado con react-router-dom. Desplegado en Github Pages.
 - **Aplicación Web Full-Stack (TS):** Desarrollo *front-end* y *back-end* con TypeScript, demostrando gestión completa del ciclo de vida de una app web.
-- **Sitio Web Dinámico (JS):**  Implementación de JavaScript y prácticas modernas para una experiencia de usuario fluida.
 - **Juego Personalizado (Adaptación):** Modificación de un juego existente, mostrando creatividad y resolución de problemas de código complejos.
 - **Taxímetro Digital (Python):** Creación de un taxímetro digital funcional utilizando Python, probando la lógica de tarificación y la interacción con el usuario.
 
