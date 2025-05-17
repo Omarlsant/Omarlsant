@@ -3,12 +3,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omarlsant)](https://git.io/streak-stats)
 
 # 💫 Sobre mí:
-¡Hola! Soy Omar Lengua, un desarrollador jr. full stack web apasionado y un entusiasta del lenguaje C. Me encanta enfrentarme a desafíos que requieren tanto front-end como back-end para crear aplicaciones web dinámicas y juegos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
+¡Hola! Soy Omar Lengua, Full Stack Developer apasionado y un entusiasta del lenguaje C. Me encanta enfrentarme a desafíos que requieren tanto front-end como back-end para crear aplicaciones web dinámicas y juegos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
 
 ## 🌟 Proyectos Destacados
 Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones prácticas:
 
-- **Modelo de ML que predice la satisfacción de un cliente. Implementado en Python, uso de Flask, MySQL, Render y Docker.
+- **Modelo de ML que predice la satisfacción de un cliente:** Implementado en Python, uso de Flask, MySQL, Render y Docker.
 - **Mi portafolio profesional:** Implementado en React vite, TypeScript y Tailwind Css. Enrutado con react-router-dom. Desplegado en Github Pages.
 - **Aplicación Web Full-Stack (TS):** Desarrollo *front-end* y *back-end* con TypeScript, demostrando gestión completa del ciclo de vida de una app web.
 - **Juego Personalizado (Adaptación):** Modificación de un juego existente, mostrando creatividad y resolución de problemas de código complejos.
