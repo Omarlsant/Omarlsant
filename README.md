@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omarlsant)](https://git.io/streak-stats)
 
 # 💫 Sobre mí:
-¡Hola! Soy Omar Lengua, Full Stack Developer apasionado y un entusiasta del lenguaje C. Me encanta enfrentarme a desafíos que requieren tanto front-end como back-end para crear aplicaciones web dinámicas y juegos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
+¡Hola! Soy Omar Lengua. En un emocionante proceso de reinvención profesional desde el sector bancario hacia el desarrollo Full Stack. Mi genuino interés por la tecnología y una constante motivación por aprender me impulsan a enfrentar desafíos de front-end y back-end. Me apasiona crear aplicaciones web dinámicas e interactivas que ofrezcan una experiencia de usuario excepcional. Ahora también, aprendiendo y desarrollando nuevos proyectos sobre desarrollo de Inteligencia Artificial.
 
 ## 🌟 Proyectos Destacados
 Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones prácticas:
