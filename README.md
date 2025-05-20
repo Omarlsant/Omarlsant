@@ -36,7 +36,7 @@ Mi conjunto de herramientas para abordar diversos desafíos de desarrollo:
 Soy un firme creyente en el aprendizaje continuo y la mejora constante. Cada línea de código que escribo, cada error que depuro y cada proyecto que completo son pasos en un viaje de crecimiento profesional. La programación es, para mí, un proceso iterativo de refinamiento y expansión de habilidades.
 
 ## 🚀 Logros Recientes:
-En los últimos meses, he redoblado mi compromiso con mi desarrollo profesional, aprendiendo tecnologías con las que no había trabajado anteriormente y gracias a la base que tengo, se me facilita el poder implementar código en los proyectos personales que hago.
+En los últimos meses, he redoblado mi compromiso con mi desarrollo profesional, aprendiendo tecnologías con las que no había trabajado anteriormente y gracias a la base que tengo, se me facilita el poder implementar código en los proyectos personales que desarrollo en la formación que estoy realizando.
 
 ## 🔭 Visión a Futuro
 Me visualizo como un miembro clave de un equipo de alto rendimiento, donde la colaboración, el aprendizaje continuo y el intercambio de conocimientos sean pilares fundamentales. Busco no solo superar mis propios límites, sino también contribuir al crecimiento y éxito colectivo.
