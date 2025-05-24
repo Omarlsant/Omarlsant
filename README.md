@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Omarlsant&color=blue)
-#### Si no puedes visualizar estos elementos (contador de visitas o streak), recarga otra vez la página por favor. A veces la API falla y no se carga correctamente.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omarlsant)](https://git.io/streak-stats)
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarlsant&show_icons=true)
 
 # 💫 Sobre mí:
 ¡Hola! Soy Omar Lengua. En un emocionante proceso de reinvención profesional desde el sector bancario hacia el desarrollo Full Stack. Mi genuino interés por la tecnología y una constante motivación por aprender me impulsan a enfrentar desafíos de front-end y back-end. Me apasiona crear aplicaciones web dinámicas e interactivas que ofrezcan una experiencia de usuario excepcional. Ahora también, aprendiendo y desarrollando nuevos proyectos sobre desarrollo de Inteligencia Artificial.
@@ -46,7 +46,6 @@ Me visualizo como un miembro clave de un equipo de alto rendimiento, donde la co
 
 ## 📊 Estadísticas de GitHub:
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarlsant&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarlsant&layout=compact)](https://github.com/Omarlsant/github-readme-stats)
 
