@@ -45,7 +45,7 @@ Me visualizo como un miembro clave de un equipo de alto rendimiento, donde la co
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/P57Bm7xJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarlengua) 
 
 ## 📊 Estadísticas de GitHub:
-#### Si no puedes visualizar este componente recarga la página, por favor. A veces la api falla porque es externa.
+#### Si no puedes visualizar este componente recarga la página, por favor. A veces la api suele fallar y no se cargan los datos.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarlsant&theme=flag-india&hide_border=true&border_radius=21)](https://git.io/streak-stats)
 
