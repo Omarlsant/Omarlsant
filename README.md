@@ -11,8 +11,7 @@ Una muestra de mi trabajo, estos son los proyectos que he desarrollado para apli
 - **Keep in Shape**: Modelo de ML entrenado con algoritmo de clasificación multiclase. Implementado con Fast Api, Dash, Supabase y Docker.
 - **Flight Feel Analyzer**: Modelo de ML entrenado con un algoritmo de clasificación que predice la satisfacción de un cliente. Implementado en Python, uso de Flask, MySQL, Render y Docker.
 - **Mi portafolio profesional:** Implementado en React vite, TypeScript y Tailwind Css. Enrutado con react-router-dom. Desplegado en Github Pages.
-- **Aplicación Web Full-Stack (TS):** Desarrollo *front-end* y *back-end* con TypeScript, demostrando gestión completa del ciclo de vida de una app web.
-- **Juego Personalizado (Adaptación):** Modificación de un juego existente, mostrando creatividad y resolución de problemas de código complejos.
+- **Fhios Manager (Full Stack):** Desarrollo *front-end* y *back-end* con TypeScript, demostrando gestión completa del ciclo de vida de una app web.
 - **Taxímetro Digital (Python):** Creación de un taxímetro digital funcional utilizando Python, probando la lógica de tarificación y la interacción con el usuario.
 
 ## 💻 Tecnologías y Herramientas
