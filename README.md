@@ -6,7 +6,7 @@
 ¡Hola! Soy Omar Lengua. En un emocionante proceso de reinvención profesional desde el sector bancario hacia el desarrollo Full Stack e Inteligencia Artificial. Mi genuino interés por la tecnología y una constante motivación por aprender me impulsan a enfrentar desafíos de front-end y back-end. Me apasiona crear aplicaciones web dinámicas e interactivas que ofrezcan una experiencia de usuario excepcional. Ahora también, aprendiendo y desarrollando nuevos proyectos sobre desarrollo de Inteligencia Artificial.
 
 ## 🌟 Proyectos Destacados
-Una muestra de mi trabajo, reflejando mi adaptabilidad y enfoque en soluciones prácticas:
+Una muestra de mi trabajo, estos son los proyectos que he desarrollado para aplicar lo que he aprendido:
 
 - **Keep in Shape**: Modelo de ML entrenado con algoritmo de clasificación multiclase. Implementado con Fast Api, Dash, Supabase y Docker.
 - **Flight Feel Analyzer**: Modelo de ML entrenado con un algoritmo de clasificación que predice la satisfacción de un cliente. Implementado en Python, uso de Flask, MySQL, Render y Docker.
