@@ -3,7 +3,11 @@
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarlsant&show_icons=true)
 
 # 💫 Sobre mí:
-¡Hola! Soy Omar Lengua. En un emocionante proceso de reinvención profesional desde el sector bancario hacia el desarrollo Full Stack e Inteligencia Artificial. Mi genuino interés por la tecnología y una constante motivación por aprender me impulsan a enfrentar desafíos de front-end y back-end. Me apasiona crear aplicaciones web dinámicas e interactivas que ofrezcan una experiencia de usuario excepcional. Ahora también, aprendiendo y desarrollando nuevos proyectos sobre desarrollo de Inteligencia Artificial.
+¡Hola! Mi nombre es Omar y soy un desarrollador Full Stack con experiencia combinada en tecnología y negocio, capaz de liderar el ciclo completo de desarrollo de aplicaciones web (arquitectura, programación, despliegue y mantenimiento).
+
+Mi paso por el sector bancario me ha otorgado una comprensión profunda de las necesidades del negocio, lo que me permite traducirlas eficazmente en soluciones técnicas funcionales.
+
+Actualmente, complemento mis habilidades en Inteligencia Artificial y programación para integrar funcionalidades avanzadas en las aplicaciones que desarrollo. Esta visión híbrida me permite actuar como nexo estratégico entre los equipos técnicos y no técnicos, impulsando la comunicación, la agilidad y el enfoque a resultados.
 
 ## 🌟 Proyectos Destacados
 Una muestra de mi trabajo, estos son los proyectos que he desarrollado para aplicar lo que he aprendido:
