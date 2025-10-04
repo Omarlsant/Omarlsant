@@ -51,6 +51,7 @@ Me visualizo como un miembro clave de un equipo de alto rendimiento, donde la co
 ## 📊 Estadísticas de GitHub:
 #### Si no puedes visualizar este componente recarga la página, por favor. A veces la api suele fallar y no se cargan los datos.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarlsant&theme=flag-india&hide_border=true&border_radius=21)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarlsant&layout=compact&hide=html,javascript,css)](https://github.com/Omarlsant/github-readme-stats)
 
