@@ -66,4 +66,4 @@ Como **AI Developer**, mi stack se extiende desde el análisis de datos (EDA, Fe
 ## 📊 Estadísticas de GitHub:
 #### Si no puedes visualizar este componente recarga la página, por favor. A veces la api suele fallar y no se cargan los datos.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarlsant&theme=flag-india&hide_border=true&border_radius=21)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/omarlsant?cardType=level&theme=flag-india&fontFamily=Antonio&preferLogin=false)](https://git.io/awesome-stats-card)
