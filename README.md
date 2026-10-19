@@ -3,7 +3,7 @@
 
 Madrid, España · **Disponibilidad para incorporación inmediata** (Híbrido / Remoto / Presencial)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarlengua)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-lengua)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarns21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omarlsant)
 
@@ -72,7 +72,7 @@ Actualmente continúo profundizando mis capacidades técnicas cursando el **Más
 
 ## Proyectos Destacados
 
-### [Content GenerAItor](https://github.com/Omarlsant/content-generaitor)
+### [Content GenerAItor](https://github.com/Omarlsant/p-XI-llm-content-generator)
 **Plataforma Full-Stack de IA Generativa con arquitectura RAG e indexación documental.**
 - **Problema & Solución:** Generación de contenido asistida e investigación factual sobre documentos privados, reduciendo alucinaciones mediante grounding y búsqueda contextual.
 - **Implementación Técnica:** Pipeline RAG orquestado con **LangChain** y embeddings almacenados en **ChromaDB**. Enrutamiento híbrido de modelos (modelos locales con **Ollama** y cloud con **Gemini Flash**) servidos mediante API REST en **FastAPI**, integrados a una SPA en **React + TypeScript**.
@@ -84,13 +84,13 @@ Actualmente continúo profundizando mis capacidades técnicas cursando el **Más
 - **Implementación Técnica:** Separación estricta de responsabilidades bajo patrón MVC (Controller, Service, DAO), autenticación y autorización de usuarios, gestión transaccional con SQL relacional y manejo centralizado de excepciones.
 - **Stack:** Java, Spring Boot / Spring MVC, SQL, JSP, Maven.
 
-### [Housing Price Prediction](https://github.com/Omarlsant/housing-price-prediction)
+### [Housing Price Prediction](https://github.com/Bootcamp-IA-P4/e1_regression)
 **API REST de predicción inmobiliaria basada en Machine Learning.**
 - **Problema & Solución:** Estimación automatizada de valores residenciales a partir de indicadores demográficos y espaciales del dataset *California Housing*.
 - **Implementación Técnica:** Flujo completo de Data Science que abarca análisis exploratorio (EDA), ingeniería de características con Pandas/NumPy, entrenamiento y validación de modelos Random Forest con scikit-learn, desplegados y expuestos mediante microservicio en Flask.
 - **Stack:** Python, Flask, scikit-learn, Pandas, NumPy.
 
-### [Flight Feel Analyzer](https://github.com/Omarlsant/flight-feel-analyzer)
+### [Flight Feel Analyzer](https://github.com/Bootcamp-IA-P4/flight-feel-analyzer)
 **Microservicio predictivo de satisfacción y experiencia de pasajeros.**
 - **Problema & Solución:** Clasificación y scoring en tiempo real del grado de satisfacción de usuarios del sector aeronáutico según variables de servicio y vuelo.
 - **Implementación Técnica:** Limpieza de datos, entrenamiento de clasificadores supervisados y encapsulamiento en contenedor Docker conectando con persistencia en MySQL.
@@ -113,7 +113,7 @@ Actualmente continúo profundizando mis capacidades técnicas cursando el **Más
 
 Si buscas a un desarrollador comprometido, con iniciativa técnica y muchas ganas de aportar valor a tu equipo, ¡estaré encantado de conversar!
 
-- **LinkedIn:** [linkedin.com/in/omarlengua](https://www.linkedin.com/in/omarlengua)
+- **LinkedIn:** [linkedin.com/in/omarlengua](https://www.linkedin.com/in/omar-lengua)
 - **Email:** [omarns21@gmail.com](mailto:omarns21@gmail.com)
 - **GitHub:** [github.com/Omarlsant](https://github.com/Omarlsant)
 
