@@ -113,7 +113,7 @@ Actualmente continúo profundizando mis capacidades técnicas cursando el **Más
 
 Si buscas a un desarrollador comprometido, con iniciativa técnica y muchas ganas de aportar valor a tu equipo, ¡estaré encantado de conversar!
 
-- **LinkedIn:** [linkedin.com/in/omarlengua](https://www.linkedin.com/in/omar-lengua)
+- **LinkedIn:** [linkedin.com/in/omar-lengua](https://www.linkedin.com/in/omar-lengua)
 - **Email:** [omarns21@gmail.com](mailto:omarns21@gmail.com)
 - **GitHub:** [github.com/Omarlsant](https://github.com/Omarlsant)
 
